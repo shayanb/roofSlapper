@@ -1,6 +1,5 @@
 test.png
 node_modules
-dist
 .cache
 coverage
 yarn-error.log
